@@ -6,8 +6,13 @@ Twitterに似たインターフェースのメッセージングサイトです�
 Udemyの[PHP+MySQL（MariaDB） Webサーバーサイドプログラミング入門](https://www.udemy.com/course/php7basic/)で大部分を作り、機能追加をしました。
 
 会員登録ページから新規会員登録もできますが、ひとつこちらでアカウントを用意しました。  
+【ユーザー】  
 メールアドレス：`test@test.com`  
 パスワード：1111  
+投稿画面右上の「管理する」から管理者でログインするときは、こちらでログインできます。  
+【管理者】  
+ID：admin  
+パスワード：1111
 
 <img src="https://user-images.githubusercontent.com/34031637/133959212-eb697745-9866-4736-8d1f-13a1573fcc7e.jpg" width="600px">
 
