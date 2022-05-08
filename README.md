@@ -1,5 +1,5 @@
 ## Twitter風ひとこと掲示板サイト「mini-bbs」
-# [mini-bbs](https://mini-bbs0710.herokuapp.com/)
+# [mini-bbs](https://mini-bbs0710.herokuapp.com/)(停止中)
 ## サービス概要
 Twitterに似たインターフェースのメッセージングサイトです。 
 
